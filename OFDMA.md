@@ -10,7 +10,7 @@
 
 ➨Splitting the signal across four component streams lets each bit be represented by 4 ns of the signal with 1ns spacing between. This reduces interference among symbols and makes it easier to receive each symbol accurately while maintaining the same throughput.
 
-## OFDMA SPECTRUM
+## OFDM SPECTRUM
 
 ![ofdm-orthogonal-frequency-division-multiplexing-01](https://user-images.githubusercontent.com/25082554/46089335-e4720680-c1cb-11e8-81b0-c9b32cf54ded.gif)
 
