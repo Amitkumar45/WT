@@ -1,4 +1,4 @@
-What is OFDM ?
+# What is OFDM ?
 
 ### Answer:-
 
@@ -10,7 +10,7 @@ What is OFDM ?
 
 ➨Splitting the signal across four component streams lets each bit be represented by 4 ns of the signal with 1ns spacing between. This reduces interference among symbols and makes it easier to receive each symbol accurately while maintaining the same throughput.
 
-# OFDMA SPECTRUM
+## OFDMA SPECTRUM
 
 ![ofdm-orthogonal-frequency-division-multiplexing-01](https://user-images.githubusercontent.com/25082554/46089335-e4720680-c1cb-11e8-81b0-c9b32cf54ded.gif)
 
@@ -22,7 +22,7 @@ What is OFDM ?
 
 ![ofdm-transmitter-with-spectrum](https://user-images.githubusercontent.com/25082554/46088582-4893cb00-c1ca-11e8-80f9-ff5fbbeb71d8.jpg)
 
-# Benefits or advantages of OFDM
+## Benefits or advantages of OFDM
 
 Following are the benefits or advantages of OFDM:
 
@@ -38,7 +38,7 @@ Following are the benefits or advantages of OFDM:
 
 ➨It is possible to allocate bandwidth as per resource requirements. Hence OFDM is bandwidth scalable technique.
 
-###### Drawbacks or disadvantages of OFDM
+## Drawbacks or disadvantages of OFDM
 
 Following are the disadvantages of OFDM:
 
