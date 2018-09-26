@@ -1,5 +1,6 @@
 What is OFDM ?
-Answer:-
+
+## Answer:-
 
 ➨Orthogonal frequency-division multiplexing (OFDM) is a method of digital signal modulation in which a single data stream is split across several separate narrowband channels at different frequencies to reduce interference and crosstalk.
 
@@ -37,7 +38,7 @@ Following are the benefits or advantages of OFDM:
 
 ➨It is possible to allocate bandwidth as per resource requirements. Hence OFDM is bandwidth scalable technique.
 
-### Drawbacks or disadvantages of OFDM
+###### Drawbacks or disadvantages of OFDM
 
 Following are the disadvantages of OFDM:
 
